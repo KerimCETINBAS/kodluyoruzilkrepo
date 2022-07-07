@@ -1,7 +1,7 @@
-# kodluyoruzilkrepo
+## kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet READNE dosyası, bir adet de index.html barındırıyor.
 
-## Installation
+### Installation
 
 Öncelikle projeyi clonlayın.
 
@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://patika.dev) Front-End Eğitiminde oluşturduğumuz 
   git clone https://github.com/kerimcetinbas/kodluyoruzilkrepo.git
 ```
 
-## Usage
+### Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda açınız.
 
 Linux için
@@ -18,10 +18,10 @@ Linux için
   cd kodluyoruzrepo
   code .
 ```
-## Contributing
+### Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-## License
+### License
 
 [MIT](https://opensource.org/licenses/MIT)
