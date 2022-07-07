@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo [Kodluyoruz](https:patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet READNE dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet READNE dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
